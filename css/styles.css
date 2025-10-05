@@ -316,7 +316,6 @@ font-weight: 400;
 }
 
 .footer-c {
-    display: flex;
     flex-direction: column;
 }
 
@@ -353,7 +352,6 @@ font-weight: 400;
 .style-f {
     color: #f4f4fd;
     display: inline-block;
-    
 }
 
 .page-header {

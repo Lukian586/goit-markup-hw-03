@@ -173,7 +173,8 @@ img {
     font-weight: 500;
     font-size: 20px;
     color: #2E2F42;
-    padding-bottom: 8px;
+    margin-bottom: 8px;
+
 }
 
 .benefits-p {
@@ -225,7 +226,7 @@ img {
         letter-spacing: 0.02em;
         text-transform: capitalize;
         text-align: center;
-        padding-bottom: 72px;
+        margin-bottom: 72px;
 }
 
 .team-s-title {
@@ -235,7 +236,7 @@ img {
         letter-spacing: 0.02em;
         color: #2E2F42;
         text-align: center;
-        padding-bottom: 8px;
+        margin-bottom: 8px;
 }
 
 .our-team-p {
@@ -266,7 +267,7 @@ img {
         color: #2E2F42;
         text-transform: capitalize;
         text-align: center;
-        padding-bottom: 72px;
+        margin-bottom: 72px;
 }
 
 .our-portfolio {
@@ -346,7 +347,7 @@ font-weight: 400;
     font-weight: 700;
     font-size: 18px;
     color: #4d5ae5;
-    padding-bottom: 16px;
+    margin-bottom: 16px;
 }
 
 .style-f {
